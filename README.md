@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # Erik Murray
-This is the landing page for my separate business account. I have a personal GitHub repo @erikjmurray
+This is the landing page for my separate business account. I have a personal GitHub repo [here](https://github.com/erikjmurray)
 <!--
 **ErkMurIndustries/erkmurindustries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
